@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leedaeho8078
 - 👀 I’m interested in Coding and Soft engineer(Back-end)
 - 🌱 I’m currently learning Html CSS and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anyone 
 - 📫 How to reach me ... Junior
 
 <!---
